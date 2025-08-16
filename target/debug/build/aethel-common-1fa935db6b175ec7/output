@@ -1,2 +1,0 @@
-cargo:rerun-if-changed=src/proto/aethel.proto
-cargo:rerun-if-changed=src/proto

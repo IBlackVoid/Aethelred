@@ -1,0 +1,23 @@
+# Rust / Cargo
+/target/
+**/*.d
+**/*.pdb
+**/*.dll
+**/*.exe
+**/*.lib
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byproducts
+*.old
+*.orig
