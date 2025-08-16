@@ -1,0 +1,16 @@
+[package]
+name = "aethel-tests"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aethel-common = { path = "../aethel-common" }
+tokio = { workspace = true, features = ["full"] }
+tokio-stream = { workspace = true, features = ["sync"] }
+tonic = "0.11"
+libc = "0.2"
+futures = "0.3"
+nix = { workspace = true }
+
+[dev-dependencies]
+rtnetlink = "0.13" 

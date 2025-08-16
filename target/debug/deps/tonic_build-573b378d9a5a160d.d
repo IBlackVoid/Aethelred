@@ -1,0 +1,12 @@
+/home/BVoid/BVoid/Aethelred/target/debug/deps/libtonic_build-573b378d9a5a160d.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/prost.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/manual.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/client.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/server.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/code_gen.rs
+
+/home/BVoid/BVoid/Aethelred/target/debug/deps/libtonic_build-573b378d9a5a160d.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/prost.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/manual.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/client.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/server.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/code_gen.rs
+
+/home/BVoid/BVoid/Aethelred/target/debug/deps/tonic_build-573b378d9a5a160d.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/prost.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/manual.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/client.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/server.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/code_gen.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/prost.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/manual.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/client.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/server.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.11.0/src/code_gen.rs:

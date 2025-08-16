@@ -1,0 +1,20 @@
+/home/BVoid/BVoid/Aethelred/target/debug/deps/librustversion-7dae174f6bb364b2.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/bound.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/constfn.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/date.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/expand.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/expr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/iter.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/release.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/time.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/token.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/version.rs /home/BVoid/BVoid/Aethelred/target/debug/build/rustversion-3c7132257b7fc7a7/out/version.expr
+
+/home/BVoid/BVoid/Aethelred/target/debug/deps/rustversion-7dae174f6bb364b2.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/bound.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/constfn.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/date.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/expand.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/expr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/iter.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/release.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/time.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/token.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/version.rs /home/BVoid/BVoid/Aethelred/target/debug/build/rustversion-3c7132257b7fc7a7/out/version.expr
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/bound.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/constfn.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/date.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/expr.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/release.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/time.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/token.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.21/src/version.rs:
+/home/BVoid/BVoid/Aethelred/target/debug/build/rustversion-3c7132257b7fc7a7/out/version.expr:
+
+# env-dep:OUT_DIR=/home/BVoid/BVoid/Aethelred/target/debug/build/rustversion-3c7132257b7fc7a7/out

@@ -1,0 +1,38 @@
+# Aethelred/Cargo.toml
+
+[workspace]
+members = [
+    "aethel-run",
+    "aethel-d",
+    "aethel-common",
+    "aethel-storage",
+    "aethel-net",
+    "aethel-cli",
+    "aethel-tests",
+]
+resolver = "2"
+
+# shared nix crate for all members
+[workspace.dependencies]
+[workspace.dependencies.nix]
+version = "0.26.4"
+features = ["fs", "mount", "hostname", "sched", "signal", "process"]
+
+[workspace.dependencies.rand]
+version = "0.8"
+
+[workspace.dependencies.tokio]
+version = "1"
+
+[workspace.dependencies.tokio-stream]
+version = "0.1.17"
+features = ["sync"]
+
+[workspace.dependencies.walkdir]
+version = "2.5"
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true

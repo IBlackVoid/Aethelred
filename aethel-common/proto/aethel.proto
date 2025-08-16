@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package aethel;
+
+import "google/protobuf/empty.proto";
+
+service AethelService {
+  rpc CreateContainer (CreateContainerRequest) returns (ContainerInfo) {}
+  rpc ListContainers (ListContainersRequest) returns (stream ContainerInfo) {}
+  rpc GetContainer (GetContainerRequest) returns (ContainerInfo) {}
+  rpc DeleteContainer (DeleteContainerRequest) returns (google.protobuf.Empty) {}
+  rpc StreamLogs (StreamLogsRequest) returns (stream LogEntry) {}
+}
+
+message CreateContainerRequest {
+  string image_name = 1;
+  // Optional user-defined name for idempotency.
+  string name = 2;
+  string command = 3;
+  repeated string args = 4;
+}
+
+message ContainerInfo {
+    string id = 1;
+    string name = 2;
+    string image = 3;
+    string status = 4;
+    string ip_address = 5;
+}
+
+message ListContainersRequest {
+    // Filters can be added here in the future.
+}
+
+message GetContainerRequest {
+    string container_id = 1;
+}
+
+message DeleteContainerRequest {
+    string container_id = 1;
+}
+
+message StreamLogsRequest {
+    string container_id = 1;
+}
+
+message LogEntry {
+    string entry = 1;
+} 
