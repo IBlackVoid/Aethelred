@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+package aethel;
+
+service AethelService {
+      rpc CreateContainer(CreateContainerRequest) returns (CreateContainerResponse);
+    rpc ListContainers(Empty) returns (stream ContainerInfo);
+    rpc StopContainer(StopRequest) returns (StopResponse);
+    rpc StreamLogs(LogsRequest) returns (stream LogEntry);
+}
+
+message CreateContainerRequest {
+  string image_name = 1;
+  string command = 2;
+  repeated string args = 3;
+}
+
+message CreateContainerResponse {
+    string container_id = 1;
+    string ip_address = 2;
+}
+
+message Empty {}
+
+message ContainerInfo {
+    string id = 1;
+    string image = 2;
+    string status = 3;
+    string ip_address = 4;
+}
+
+message StopRequest {
+    string container_id = 1;
+}
+
+message StopResponse {
+    bool success = 1;
+}
+
+message LogsRequest {
+    string container_id = 1;
+}
+
+message LogEntry {
+    string entry = 1;
+}

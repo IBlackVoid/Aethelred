@@ -1,0 +1,11 @@
+[package]
+name = "aethel-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aethel-common = { path = "../aethel-common" }
+tokio = { version = "1", features = ["full"] }
+tonic = "0.11"
+prost = "0.12"
+clap = { version = "4.0", features = ["derive"] }

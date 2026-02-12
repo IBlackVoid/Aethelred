@@ -1,0 +1,10 @@
+[package]
+name = "aethel-run"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aethel-common = { path = "../aethel-common" }
+nix = "0.28.0"
+libc = "0.2.153"
+tokio = { version = "1", features = ["full"] }
